@@ -10,4 +10,4 @@ aiofiles
 dnspython
 motor[srv]
 beautifulsoup4
-pyrogram==2
+pyrogram
